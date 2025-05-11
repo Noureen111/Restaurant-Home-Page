@@ -1,8 +1,8 @@
 Restaurant Home Page 🍽️  
 This is a clean and responsive homepage for a restaurant, created using pure HTML and CSS. The design focuses on visual aesthetics and simplicity, featuring a grid-based gallery to showcase dishes or ambience — ideal for practice or template usage.
 
-🌐 Live Demo  
-🔗 [Visit the Live Site](https://noureen111.github.io/Restaurant-Home-Page/)
+🌐 Demo  
+🔗 [Click here to view live demo](https://noureen111.github.io/Restaurant-Home-Page/)
 
 🧰 Tech Stack  
 **Frontend**  
